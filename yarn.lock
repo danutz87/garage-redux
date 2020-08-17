@@ -3090,7 +3090,7 @@ locate-path@^2.0.0:
     path-exists "^3.0.0"
 
 lodash-es@^4.2.0, lodash-es@^4.2.1:
-  version "4.17.4"
+  version "4.17.14"
   resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.4.tgz#dcc1d7552e150a0640073ba9cb31d70f032950e7"
 
 lodash._basefor@^3.0.0:
@@ -5069,7 +5069,7 @@ tar-pack@^3.4.0:
     uid-number "^0.0.6"
 
 tar@^2.0.0, tar@^2.2.1:
-  version "2.2.1"
+  version "2.2.2"
   resolved "https://registry.yarnpkg.com/tar/-/tar-2.2.1.tgz#8e4d2a256c0e2185c6b18ad694aec968b83cb1d1"
   dependencies:
     block-stream "*"
